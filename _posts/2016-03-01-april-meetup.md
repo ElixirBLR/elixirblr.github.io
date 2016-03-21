@@ -18,3 +18,5 @@ We have a guest speaker for this meetup.
 Ping us at [@ElixirBLR](https://twitter.com/ElixirBLR) to give a talk.
 
 Bring your hobby projects along to demo them at the meetup. We are curious about your projects, Elixir or not :)
+
+### [&raquo; RSVP here](http://goo.gl/forms/HRXejQ0qJt)
